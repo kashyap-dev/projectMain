@@ -1,0 +1,85 @@
+
+.signup_main {
+    background-color:#3D50B7;
+    position: absolute;
+}
+.main_div{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 29% 60px 0px 55px;
+}
+.f4cseb0 {
+    align-items: center;
+    animation: none;
+    background: #fff;
+    border-radius: 5px;
+    display: flex;
+    height: 100px;
+    margin: 30px;
+    padding: 0 15px;
+    position: relative;
+    width: 100%;
+}
+.signup_mobile {
+    align-items: center;
+    animation: none;
+    background: #fff;
+    border-radius: 5px;
+    display: flex;
+    height: 100px;
+    margin: 30px;
+    padding: 0 15px;
+    position: relative;
+    width: 100%;
+}
+.mobile{
+    background-color: transparent;
+    border: none;
+    border-radius: 0;
+    color: #2c2c2c;
+    font-family: cursive;
+    font-size: 16px;
+    font-weight: 500;
+    outline: none;
+    position: relative;
+    text-align: left;
+    text-indent: 0;
+    width: 100%;
+}
+.signup_txt {
+    color: #fff;
+    font-size: 1.4em;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+.line {
+    border-bottom: 2px solid #ededed;
+    height: 1px;
+    left: 38px;
+    position: absolute;
+    right: 22px;;
+    top: 64px;
+}
+.start_mob{
+align-items: center;
+display: flex;
+font-size: 18px;
+font-weight: 600;
+line-height: 40px;
+}
+.btn_continue{
+align-items: center;
+    background-image: linear-gradient(to right, #2c40a3, #2c40a3);
+    border-radius: 5px;
+    color: #9cadea;
+    display: flex;
+    font-size: 1.6em;
+    font-weight: 600;
+    height: 48px;
+    justify-content: center;
+    opacity: 0.75;
+    text-transform: uppercase;
+    width: 109%;
+}

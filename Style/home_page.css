@@ -1,0 +1,309 @@
+.fi2jvha {
+  align-items: center;
+  background: linear-gradient(to bottom,#3E51B5,#3957EA);
+  box-shadow: 0 2px 5px 2px rgba(1,1,1,0.4);
+  display: flex;
+  height: 60px;
+  left: 0;
+  margin: 0 auto;
+  max-width: 600px;
+  position: fixed;
+  right: 0;
+  top: 0;
+  width: 100%;
+  z-index: 3;
+}
+
+.fdacjj2 {
+  align-items: center;
+  display: flex;
+  height: 100%;
+  justify-content: center;
+  width: 100px;
+}
+
+.fc39scl {
+  overflow: hidden;
+  position: relative;
+}
+
+.f1mgyl9u {
+  position: relative;
+}
+
+.fpvt2jk {
+  height: 16px;
+  width: 22px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  vertical-align: top;
+}
+
+.f1yjnwtq{
+margin-left: 5px;
+  width: 18px;
+}
+
+.f306i2h {
+  color: #ffffff;
+  font-size: 1.6em;
+  font-weight: 600;
+  padding-left: 15px;
+}
+
+.fod5rt6 {
+  align-items: center;
+  display: flex;
+  height: 100%;
+  justify-content: center;
+  position: absolute;
+  right: 0;
+}
+
+.f18z1uyv {
+  align-items: center;
+  background-color: #2539A2;
+  border: 1px solid #6B83D9;
+  border-radius: 4px;
+  display: flex;
+  height: 42px;
+  margin-right: 9px;
+  width: 104px;
+padding: 2px;
+text-decoration: none;
+}
+
+.ftw1wr0 {
+  margin-left: 5px;
+  width: 18px;
+}
+
+.foh645m {
+  margin-left: 5px;
+}
+
+.f1bw7g3l {
+  color: #B4C3FF;
+  font-size: 1em;
+  font-weight: 500;
+  margin-bottom: 1px;
+  text-transform: uppercase;
+}
+
+.f1lwx3tj {
+  color: #ffffff;
+  font-size: 1.3em;
+  font-weight: 700;
+}
+
+/* The side navigation menu */
+.sidenav {
+  height: 100%; /* 100% Full-height */
+  width: 0; /* 0 width - change this with JavaScript */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Stay on top */
+  top: 0; /* Stay at the top */
+  left: 0;
+  background-color:#3b53cf; /* Black*/
+  overflow-x: hidden; /* Disable horizontal scroll */
+  padding-top: 60px; /* Place content 60px from the top */
+  transition: 0.5s; /* 0.5 second transition effect to slide in the sidenav */
+}
+
+/* The navigation menu links */
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #fff;
+  display: block;
+  transition: 0.3s;
+}
+
+/* When you mouse over the navigation links, change their color */
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+/* Position and style the close button (top right corner) */
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+/* Style page content - use this if you want to push the page content to the right when you open the side navigation */
+#main {
+  transition: margin-left .5s;
+  padding: 20px;
+}
+
+/* On smaller screens, where height is less than 450px, change the style of the sidenav (less padding and a smaller font size) */
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+
+/* Avatar sid nav */
+.avt_box {
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.avt_img {
+  width: 20%;
+  box-sizing: border-box;
+  padding: 10px;
+  float: left;
+}
+
+.avt_body {
+  width: 80%;
+  box-sizing: border-box;
+  float: left;
+padding-left: 14px;
+}
+
+.avt_body p {
+  color: #fff;
+  font-weight: 500;
+}
+
+.avt_box::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.dgn_nav {
+  background: #fff;
+  width: 80%;
+  margin: auto;
+}
+.dgn_nav a {
+  color: #4c4c4c;
+  font-size: 16px;
+  padding: 10px;
+}
+
+.dgn_nav {
+  background: #fff;
+  width: 80%;
+  margin: auto;
+  color: #4c4c4c;
+  box-sizing: border-box;
+  padding: 10px;
+  margin-top: 20px;
+}
+
+.dgn_nav a:hover {
+  color: #3b53cf;
+}
+
+.gme_card {
+  width: 90%;
+  margin: auto;
+  box-sizing: border-box;
+  box-shadow: 0 0 3px 3px #eaeaea;
+  padding: 10px;
+  margin-top: 90px;
+  height:200px;
+}
+
+p.card_txt {
+  margin: 0px;
+  font-size: 24px;
+  font-family: MONOSPACE;
+  font-weight: 600;
+  margin-bottom: 12px;
+}
+
+.gme_box1 {
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.gme_box1_img {
+  width: 50%;
+  box-sizing: border-box;
+  float: left;
+  padding-right: 12px;
+}
+
+.gme_box1_body {
+  width: 50%;
+  box-sizing: border-box;
+  float: left;
+}
+
+.gme_box1_body p {
+  margin: 0px;
+}
+
+.gme_box1::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.gme_box2 {
+  width: 100%;
+  box-sizing: border-box;
+  margin-top: 12px;
+}
+
+.gme_box2_body {
+  width: 50%;
+  box-sizing: border-box;
+  float: left;
+}
+
+.gme_box1_btn {
+  width: 50%;
+  box-sizing: border-box;
+  float: left;
+  text-align: right;
+}
+
+p.gme_text {
+  font-size: 17px;
+  color: #a9a9a9;
+  margin-bottom: 5px !important;
+  font-family: monospace;
+}
+
+p.gme_title {
+  font-size: 21px;
+  font-family: monospace;
+  font-weight: 600;
+}
+
+p.gme_text1 {
+  font-size: 15px;
+  color: #a9a9a9;
+  font-family: monospace;
+  margin: 0px;
+}
+
+p.gme_title2 {
+  font-size: 30px;
+  font-family: monospace;
+  font-weight: 600;
+  margin: 0px;
+}
+button.gme_btn {
+  width: 50%;
+  padding: 12px;
+  margin-top: 8px;
+  background: #3c53c9;
+  color: #fff;
+  border: none;
+  font-size: 14px;
+  letter-spacing: 1px;
+}
+
